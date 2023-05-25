@@ -1,1 +1,1 @@
-# customer-segmentation-powerbi
+# customer-segmentation-kmeans
